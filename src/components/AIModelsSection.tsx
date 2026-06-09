@@ -2,10 +2,10 @@ import { gsap } from "gsap";
 import { useEffect, useRef } from "react";
 import { ScrollTrigger } from "gsap/ScrollTrigger";
 
-import img1 from "../assets/images/uifaces-human-avatar (4).jpg";
-import img2 from "../assets/images/uifaces-human-avatar (5).jpg";
-import img3 from "../assets/images/uifaces-human-avatar (6).jpg";
-import img4 from "../assets/images/uifaces-human-avatar (7).jpg";
+import img1 from "../assets/images/uifaces-human-avatar (8).jpg";
+import img2 from "../assets/images/uifaces-human-avatar (9).jpg";
+import img3 from "../assets/images/uifaces-human-avatar (10).jpg";
+import img4 from "../assets/images/uifaces-human-avatar (11).jpg";
 import img5 from "../assets/images/uifaces-human-avatar (8).jpg";
 import img6 from "../assets/images/uifaces-human-avatar (9).jpg";
 import img7 from "../assets/images/uifaces-human-avatar (10).jpg";
