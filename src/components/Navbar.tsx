@@ -715,7 +715,6 @@ const Navbar = ({ isAuthenticated, user, onLogoutClick }: NavbarProps) => {
   // ─── MASTER GSAP PIPELINE ─────────────────────────────────────────────────
   useEffect(() => {
     let cleanupHeaderSync: () => void = () => {};
-
     const ctx = gsap.context(() => {
       const isMobile = () => window.innerWidth < 768;
 
